@@ -8,6 +8,8 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0",
     "flow-bin": "^0.66.0"
   }
 }
