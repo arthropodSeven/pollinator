@@ -1,0 +1,13 @@
+{
+  "name": "pollinator",
+  "version": "1.0.0",
+  "description": "converts strings to their equivalents in various unicode pseudoalphabets",
+  "main": "index.js",
+  "repository": "https://github.com/arthropodSeven/pollinator",
+  "author": "arthropodSeven",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "flow-bin": "^0.66.0"
+  }
+}
