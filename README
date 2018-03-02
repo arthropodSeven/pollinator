@@ -1,0 +1,12 @@
+##Pollinator
+
+A more modern replacement for the Unicode pseudoalphabet 'translator' at qaz.wtf. Version 1 will
+just be a Node library when it's done. After that, I'll add a React frontend and serve it as a
+webapp. 
+
+Half my motivation for starting this project is in wanting a faster alternative to qaz.wtf that
+I can use from the command line. The other half is about learning to use Flow, putting together
+the build process for a modern webapp myself, understanding JavaScript testing and continuous
+integration, and so on. 
+
+MIT licensed.
