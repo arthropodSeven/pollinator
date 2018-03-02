@@ -4,12 +4,16 @@
   "description": "converts strings to their equivalents in various unicode pseudoalphabets",
   "main": "index.js",
   "repository": "https://github.com/arthropodSeven/pollinator",
-  "author": "arthropodSeven",
+  "author": "Andrew Stebenné",
   "license": "MIT",
   "private": false,
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-flow": "^6.23.0",
     "flow-bin": "^0.66.0"
+  },
+  "scripts": {
+    "build": "babel src/ -d lib/",
+    "prepublish": "yarn run build"
   }
 }
